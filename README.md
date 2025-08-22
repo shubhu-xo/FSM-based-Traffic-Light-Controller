@@ -1,6 +1,3 @@
-Here's a draft for your new README file based on the Verilog code for the traffic light controller.
-
-***
 
 # Verilog Traffic Light Controller 🚦
 
